@@ -1,1 +1,1 @@
-This script aims to find an optimal policy to solve the Cartpole Problem.
+This script aims to find an optimal policy to solve the Cartpole Problem. A Fourier Basis parameterized policy vector is used to represent continuous state spaces for the Cartpole problem. We use the Evolution Stratgies algorithm in order to update the initial random policy vector until it converges to find an optimal solution.
