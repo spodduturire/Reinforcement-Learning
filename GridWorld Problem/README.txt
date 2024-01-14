@@ -1,0 +1,1 @@
+This script aims to find an optimal policy to solve the GridWorld Problem. The value iteration algorithm is used to iteratively calculate the optimal value function for this problem, which in turn gives us the optimal policy. 
